@@ -306,7 +306,7 @@
 			});
 
 		// Events.
-			$body.on('click', function(event) {
+/*			$body.on('click', function(event) {
 
 				// Article visible? Hide.
 					if ($body.hasClass('is-article-visible'))
@@ -332,7 +332,7 @@
 				}
 
 			});
-
+*/
 			$window.on('hashchange', function(event) {
 
 				// Empty hash?
