@@ -1637,6 +1637,7 @@ input, select, textarea {
 	}
 
 		#footer .copyright {
+		  display: none;
 			letter-spacing: 0.2rem;
 			font-size: 0.6rem;
 			opacity: 0.75;
